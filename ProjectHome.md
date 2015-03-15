@@ -1,0 +1,1 @@
+A new version of mklist for use on the LDraw parts library. The file reads through the [LDRAWDIR](LDRAWDIR.md)/parts/ directory, obtaining information about all .dat and .ldr files there, and generates a list according to user specified rules
